@@ -1,5 +1,5 @@
 # Olá, me chamo Fred!
-## Bem vindo ao meu perfil GitHub 👋
+## Bem-vindo ao meu perfil GitHub 👋
 
 💼 Atualmente cursando Engenharia de Software na PUC Minas - Coração Eucarístico - e Aprendizagem Industrial em Assistente de Programação Web no SENAI - Centro de Treinamento da Tecnologia da Informação.
 
@@ -11,11 +11,9 @@
 ## Estou Aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60" height="60"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="60" height="60"/>
 
+## Contatos
 <div>
-  <a href="https://github.com/fredmarques916">
-    <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredmarques916&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-  <a href="https://github.com/fredmarques916">
-    <img loading="lazy" height="180" src="https://github-readme-stats.vercel.app/api?username=fredmarques916&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
+  <a href="https://instagram.com/fredyn.og/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fredmarques916@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fredmarques916" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
